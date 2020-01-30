@@ -1,2 +1,2 @@
 # Mywebsite
-It is my first website
+It is my first website on indian Mythology
